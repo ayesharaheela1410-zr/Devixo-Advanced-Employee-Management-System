@@ -1,0 +1,22 @@
+Date: 2026-10-29 14:00:30
+Employee ID: 101
+Name: Shafay
+Department: Maths
+Employment Type : Full-Time
+Monthly Salary  : PKR 55000.00
+Bonus           : PKR 5000.00
+Gross Pay       : PKR 60000.00
+Deductions      : PKR 3000.00
+Net Pay         : PKR 57000.00
+----------------------------------------Date: 2026-10-29 14:35:54
+Employee ID: 102
+Name: Zeeshan Bashir
+Department: Mathematics
+Employment Type : Part-Time
+Hourly Rate     : PKR 1500.00
+Hours Worked    : 6.00
+Bonus           : PKR 5000.00
+Gross Pay       : PKR 14000.00
+Deductions      : PKR 100.00
+Net Pay         : PKR 13900.00
+----------------------------------------
