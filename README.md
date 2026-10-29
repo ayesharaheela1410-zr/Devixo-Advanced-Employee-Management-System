@@ -158,6 +158,7 @@ Devixo-Advanced-Employee-Management-System/
 ├── employees.txt
 ├── payroll_history.txt
 ├── salary_statement_101.txt
+├── salary_statement_102.txt
 ├── README.md
 ├── screenshots/
 │   ├── libraries
@@ -274,13 +275,13 @@ The file uses a pipe-separated record format.
 A full-time employee record may follow this structure:
 
 ```text
-F|101|Sara Khan|Human Resources|50000|5000|2000
+F|101|Shafay|Maths|50000|5000|3000
 ```
 
 A part-time employee record may follow this structure:
 
 ```text
-P|102|Ali Ahmed|Sales|500|80|3000|1000
+P|102|Zeeshan Bashir|Mathematics|1500|6|5000|100
 ```
 
 These examples illustrate the intended field structure:
